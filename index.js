@@ -4,7 +4,7 @@ const port = 3436;
 const bodyParser = require("body-parser");
 
 //
-// Requirement for set up the exercise Joseph
+// Requirement for set up the exercise Joseph Jan Magallon
 //
 app.use(bodyParser.json()); // parse requests of content-type - application/json
 

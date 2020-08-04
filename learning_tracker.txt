@@ -1,0 +1,3 @@
+git pull - 
+nodemon - live server no need to stop the project
+.gitignore file - 
